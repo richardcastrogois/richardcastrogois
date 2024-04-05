@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+int main(void) 
+{
+    // Informacoes do FUNCIONARIO
+    float Salario_Antigo = 3000.00;
+    float Refeicao_Antiga = 20.00;
+    float Refeicao_Nova = 28.00;
+    int Dias_Mes = 30;
+    int Dias_Descanso_Semanal = 10;
+    int Horas_Diarias = 6;
+    int Dias_Trabalhados_Semana = 5; // Segunda a Sexta-feira
+
+    // Variavel - Reajuste do salário em 2024 (5%)
+    float Salario_Reajustado = Salario_Antigo * 1.05;
+
+    // Variavel - Novo valor total recebido pelo FUNCIONARIO em 2024
+    float Novo_Valor_Total = Salario_Reajustado + (Refeicao_Nova * (Dias_Mes - Dias_Descanso_Semanal));
+
+    // Variavel - Valor pago por hora
+    float Valor_Por_Hora = Salario_Reajustado / (Dias_Mes - Dias_Descanso_Semanal) / Horas_Diarias;
+
+    // O que aparecera na tela
+    printf("Salario Trainner: R$%.2f\n", Salario_Antigo);
+    printf("Salario após REAJUSTE 2024: R$%.2f\n", Novo_Valor_Total);
+    printf("\nValor pago por hora: R$%.2f\n", Valor_Por_Hora);
+
+    return 0;
+}
