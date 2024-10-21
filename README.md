@@ -1,5 +1,5 @@
 # 💫 About Me:
-const sobreMim = {<br>           nome: "Richard Castro Gois";<br>           idade: 31;<br>           area: "Desenvolvedor Front-End";<br>           cursando: "Análise e Desenvolvimento de Sistema"<br>           habilidades: ["HTML", "CSS", "JavaScript", "NodeJS", "React", "TypeScript"];<br><br>           meta: "Inteligência Artificial";<br>           objetivo: "Criar soluções que impactam o presente e moldam o futuro 🚀"<br>};<br><br>console.log("Pronto para enfrentar qualquer desafio. Bora codar !! ");
+const sobreMim = {<br>            nome: "Richard Castro Gois";<br>           idade: 31;<br>           area: "Desenvolvedor Front-End";<br>           cursando: "Análise e Desenvolvimento de Sistema"<br>           habilidades: ["HTML", "CSS", "JavaScript", "NodeJS", "React", "TypeScript"];<br><br>           meta: "Inteligência Artificial";<br>           objetivo: "Criar soluções que impactam o presente e moldam o futuro 🚀"<br>};<br><br>console.log("Pronto para enfrentar qualquer desafio. Bora codar !! ");
 
 
 ## 🌐 Socials:
