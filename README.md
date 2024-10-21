@@ -13,7 +13,7 @@ class SobreMim extends Desenvolvedor {
 
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:dev.richardgois@gmail.com)&nbsp;
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/richardcastrogois/)&nbsp;
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/richard-castro-00a6b42bb/)&nbsp;
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/richard-castro-00a6b42bb//)&nbsp;
 
 
 # 💻 Tecnologias que uso no meu dia a dia:
