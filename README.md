@@ -1,7 +1,7 @@
 ```js
 class SobreMim extends Desenvolvedor {
   nome       = 'Richard Castro Gois';
-  idade      = '31 anos';
+  idade      = '32 anos';
   area       = 'Desenvolvedor Front-End';
   cursando   = 'Análise e Desenvolvimento de Sistemas 2° Semestre';
   local      = 'Campinas, SP';
