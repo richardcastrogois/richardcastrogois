@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<p><code>richard@github:~$ ./whoami --current</code></p>
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=richardcastrogois&theme=matrix&variant=living-identity&label=Richard%20Castro%20Gois&mode=light" />
   <img src="https://www.gitskins.com/api/section/hero?username=richardcastrogois&theme=matrix&variant=living-identity&label=Richard%20Castro%20Gois&mode=dark" width="100%" alt="Richard Castro Gois - Developer Profile" />
