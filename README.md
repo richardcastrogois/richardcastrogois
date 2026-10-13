@@ -1,33 +1,31 @@
 
 <div align="center">
 
-<img src="./assets/richard-ascii-profile.svg" width="100%" alt="Richard Castro Gois | Full Stack Developer | Go, React, TypeScript e IA" />
+<img src="./assets/richard-ascii-profile.svg" width="100%" alt="Richard Castro Gois | Full Stack Developer | Go, React, TypeScript and AI" />
 
 <a href="https://www.linkedin.com/in/richard-castro-00a6b42bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:dev.richardgois@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://devrichard-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+<a href="https://devrichard-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
+### Professional Profile
 
-### Perfil profissional
+**Full Stack Developer** with professional experience in **React and TypeScript** on the frontend and **Go** on the backend, specializing in API development, microservices, messaging systems, and system integration.
 
-Desenvolvedor **Full Stack**, com experiência em **React e TypeScript** no frontend e **Go** no backend, atuando no desenvolvimento de APIs, microsserviços, mensageria e integração de sistemas.
-
-| Formação acadêmica | Localização |
+| Education | Location |
 | :--- | :--- |
-| Graduado em Análise e Desenvolvimento de Sistemas | Campinas, SP · Brasil |
+| Bachelor's Degree in Systems Analysis and Development | Campinas, São Paulo · Brazil |
 
 ---
 
-
-## Tecnologias e ferramentas
+## Technologies & Tools
 
 ### Frontend & UI
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS e Tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS and Tailwind" />
 
 <br>
 
@@ -38,26 +36,26 @@ Desenvolvedor **Full Stack**, com experiência em **React e TypeScript** no fron
 
 </div>
 
-### Backend, APIs & Dados
+### Backend, APIs & Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,nodejs,postgres,prisma,redis&theme=dark" alt="Go, Node.js, PostgreSQL, Prisma e Redis" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,postgres,prisma,redis&theme=dark" alt="Go, Node.js, PostgreSQL, Prisma and Redis" />
 
 <br>
 
-<img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=fastapi&logoColor=white" alt="APIs REST" />
-<img src="https://img.shields.io/badge/Microsserviços-161B22?style=flat-square" alt="Microsserviços" />
-<img src="https://img.shields.io/badge/Mensageria-161B22?style=flat-square" alt="Mensageria" />
-<img src="https://img.shields.io/badge/Integração_de_Sistemas-161B22?style=flat-square" alt="Integração de sistemas" />
+<img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Microservices-161B22?style=flat-square" alt="Microservices" />
+<img src="https://img.shields.io/badge/Messaging_Systems-161B22?style=flat-square" alt="Messaging Systems" />
+<img src="https://img.shields.io/badge/System_Integration-161B22?style=flat-square" alt="System Integration" />
 
 </div>
 
-### Infraestrutura, DevOps & Ferramentas
+### Infrastructure, DevOps & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,bitbucket,linux,vscode,postman&theme=dark" alt="Docker, Kubernetes, Jenkins, Git, GitHub, Bitbucket, Linux, VS Code e Postman" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,bitbucket,linux,vscode,postman&theme=dark" alt="Docker, Kubernetes, Jenkins, Git, GitHub, Bitbucket, Linux, VS Code and Postman" />
 
 <br>
 
@@ -74,15 +72,15 @@ Desenvolvedor **Full Stack**, com experiência em **React e TypeScript** no fron
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,flutter,dart&theme=dark" alt="Figma, Flutter e Dart" />
+<img src="https://skillicons.dev/icons?i=figma,flutter,dart&theme=dark" alt="Figma, Flutter and Dart" />
 
 </div>
 
 ---
 
-## Inteligência Artificial
+## Artificial Intelligence
 
-Desenvolvimento e estudos práticos em **RAG, embeddings, busca semântica, LLMs locais, agentes de IA e automação assistida por inteligência artificial**.
+Hands-on development and practical exploration of **RAG, embeddings, semantic search, local LLMs, AI agents, and AI-powered automation**.
 
 <div align="center">
 
@@ -97,4 +95,4 @@ Desenvolvimento e estudos práticos em **RAG, embeddings, busca semântica, LLMs
 
 </div>
 
-**Projeto de estudo:** Second Brain local com Obsidian, Ollama e Qdrant, utilizando indexação de arquivos, recuperação semântica e geração de respostas contextualizadas.
+**Study Project:** Local Second Brain powered by Obsidian, Ollama, and Qdrant, featuring file indexing, semantic retrieval, and context-aware response generation.
