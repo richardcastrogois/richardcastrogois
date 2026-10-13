@@ -9,14 +9,17 @@
 
 </div>
 
+
+### Perfil profissional
+
+Desenvolvedor **Full Stack**, com experiência em **React e TypeScript** no frontend e **Go** no backend, atuando no desenvolvimento de APIs, microsserviços, mensageria e integração de sistemas.
+
+| Formação acadêmica | Localização |
+| :--- | :--- |
+| Graduado em Análise e Desenvolvimento de Sistemas | Campinas, SP · Brasil |
+
 ---
 
-Desenvolvedor Full Stack no **CPQD**, com experiência profissional em **React e TypeScript** no frontend e atuação em **Go**, APIs, mensageria e integração de serviços no backend.
-
-**Formação:** Graduado em Análise e Desenvolvimento de Sistemas.  
-**Localização:** Campinas, São Paulo, Brasil.
-
----
 
 ## Tecnologias e ferramentas
 
