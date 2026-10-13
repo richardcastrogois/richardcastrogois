@@ -42,7 +42,7 @@ Desenvolvedor **Full Stack**, com experiência em **React e TypeScript** no fron
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,nodejs,express,postgres,prisma,redis&theme=dark" alt="Go, Node.js, Express, PostgreSQL, Prisma e Redis" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,postgres,prisma,redis&theme=dark" alt="Go, Node.js, PostgreSQL, Prisma e Redis" />
 
 <br>
 
