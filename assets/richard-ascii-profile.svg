@@ -1,7 +1,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="610" viewBox="0 0 1080 610" role="img" aria-labelledby="title desc">
-<title id="title">Richard Castro Gois - Animated full stack profile</title>
-<desc id="desc">Retrato formado por caracteres ASCII com animação suave e perfil profissional com Go, React, TypeScript e IA</desc>
+<title id="title">Richard Castro Gois - Animated Full Stack Profile</title>
+<desc id="desc">ASCII portrait with smooth animation and professional profile featuring Go, React, TypeScript, and AI</desc>
 
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -46,8 +46,8 @@
 
 <text x="540" y="24" class="intro" text-anchor="middle" style="letter-spacing:1px">RICHARD CASTRO GOIS / DEVELOPER PROFILE</text>
 
-<!-- Retrato ASCII sem moldura ou recorte circular -->
-<!-- Entrada suave com fade-in e movimento vertical -->
+<!-- ASCII portrait without a frame or circular clipping -->
+<!-- Smooth fade-in and vertical entrance animation -->
 
 <g id="asciiPortrait" opacity="0">
 
@@ -138,7 +138,7 @@
 <line x1="552" y1="326" x2="1017" y2="326" stroke="#253347"/>
 
 <g class="row" style="animation-delay:0.19s">
-<text x="552" y="355" class="label">Atuação</text>
+<text x="552" y="355" class="label">Role</text>
 <text x="672" y="355" class="value">Software Developer</text>
 </g>
 
@@ -149,7 +149,7 @@
 
 <g class="row" style="animation-delay:0.57s">
 <text x="552" y="411" class="label">Backend</text>
-<text x="672" y="411" class="value">Go · APIs · Mensageria</text>
+<text x="672" y="411" class="value">Go · APIs · Messaging</text>
 </g>
 
 <g class="row" style="animation-delay:0.76s">
@@ -163,8 +163,8 @@
 </g>
 
 <g class="row" style="animation-delay:1.14s">
-<text x="552" y="495" class="label">Local</text>
-<text x="672" y="495" class="value">Campinas, SP · Brasil</text>
+<text x="552" y="495" class="label">Location</text>
+<text x="672" y="495" class="value">Campinas, SP · Brazil</text>
 </g>
 
 <line x1="32" y1="548" x2="1048" y2="548" stroke="#30363d" stroke-opacity=".85"/>
