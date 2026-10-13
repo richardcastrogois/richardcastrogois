@@ -98,28 +98,3 @@ Desenvolvimento e estudos práticos em **RAG, embeddings, busca semântica, LLMs
 </div>
 
 **Projeto de estudo:** Second Brain local com Obsidian, Ollama e Qdrant, utilizando indexação de arquivos, recuperação semântica e geração de respostas contextualizadas.
-
----
-
-## GitHub Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=richardcastrogois&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="Estatísticas públicas do GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcastrogois&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="165" alt="Linguagens nos repositórios públicos" />
-
-<br>
-
-<sub>Estatísticas de repositórios públicos. Não incluem necessariamente o trabalho corporativo no Bitbucket e não representam nível de domínio das linguagens.</sub>
-
-</div>
-
----
-
-## Atividade no GitHub
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=richardcastrogois&theme=matrix&mode=dark" width="100%" alt="Calendário de contribuições do GitHub" />
-
-</div>
