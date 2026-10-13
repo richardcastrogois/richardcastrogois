@@ -1,10 +1,54 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=richardcastrogois&theme=matrix&variant=living-identity&label=Richard%20Castro%20Gois&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=richardcastrogois&theme=matrix&variant=living-identity&label=Richard%20Castro%20Gois&mode=dark" width="100%" alt="Richard Castro Gois - Developer Profile" />
-</picture>
+<table width="100%">
+  <tr>
+    <td width="65%" valign="middle">
+
+  <p><code>DEVELOPER PROFILE / SYSTEM ONLINE</code></p>
+
+  <h2>Olá, sou Richard Castro 👋</h2>
+
+  <h3>Full Stack Developer</h3>
+
+  <p>
+    <strong>Go · React · TypeScript · AI Engineering</strong>
+  </p>
+
+  <p>
+    Desenvolvedor de software no CPQD, com experiência em
+    aplicações web, APIs, microsserviços e mensageria.
+  </p>
+
+  <p>
+    Atualmente explorando Inteligência Artificial,
+    RAG, LLMs locais e agentes inteligentes.
+  </p>
+
+  <p>
+    📍 Campinas, SP — Brasil<br/>
+    💼 CPQD | Software Development<br/>
+    🎓 Análise e Desenvolvimento de Sistemas
+  </p>
+
+  </td>
+  <td width="35%" align="center" valign="middle">
+
+  <img
+    src="./assets/profile.png"
+    width="220"
+    alt="Richard Castro Gois"
+  />
+
+  </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FRONTEND-React%20%7C%20TypeScript-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/BACKEND-Go%20%7C%20Microservices-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=22C55E" />
+</p>
 
 <h1>Richard Castro Gois</h1>
 
