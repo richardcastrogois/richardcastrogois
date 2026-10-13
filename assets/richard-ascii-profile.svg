@@ -1,17 +1,29 @@
+
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="610" viewBox="0 0 1080 610" role="img" aria-labelledby="title desc">
 <title id="title">Richard Castro Gois - Animated full stack profile</title>
-<desc id="desc">Retrato formado por caracteres ASCII com animação e perfil profissional com Go, React, TypeScript e IA</desc>
+<desc id="desc">Retrato formado por caracteres ASCII com animação suave e perfil profissional com Go, React, TypeScript e IA</desc>
+
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1723"/><stop offset="0.56" stop-color="#0b111a"/><stop offset="1" stop-color="#090e15"/></linearGradient>
-<linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58a6ff" stop-opacity=".65"/><stop offset="1" stop-color="#2ea043" stop-opacity=".6"/></linearGradient>
-<linearGradient id="portraitShade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1422" stop-opacity="0.28"/><stop offset="1" stop-color="#070c11" stop-opacity=".1"/></linearGradient>
-<pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#1c3144" stroke-opacity=".24"/></pattern>
-<clipPath id="circle"><circle cx="268" cy="290" r="166"/></clipPath>
-<clipPath id="portraitReveal"><rect x="65" y="112" width="0" height="358"><animate attributeName="width" values="0;425" dur="2.2s" repeatCount="1" fill="freeze"/></rect></clipPath>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0f1723"/>
+<stop offset="0.56" stop-color="#0b111a"/>
+<stop offset="1" stop-color="#090e15"/>
+</linearGradient>
+
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+<stop stop-color="#58a6ff" stop-opacity=".65"/>
+<stop offset="1" stop-color="#2ea043" stop-opacity=".6"/>
+</linearGradient>
+
+<pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse">
+<path d="M35 0H0V35" fill="none" stroke="#1c3144" stroke-opacity=".24"/>
+</pattern>
+
 <style>
-@keyframes appear{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
-@keyframes glimmer{0%,100%{opacity:.16}50%{opacity:.32}}
-@keyframes blink{0%,44%{opacity:1}45%,100%{opacity:0}}
+@keyframes appear {
+  from { opacity:0; transform:translateY(12px); }
+  to { opacity:1; transform:translateY(0); }
+}
 .intro{font-family:monospace;font-weight:500;font-size:12px;letter-spacing:2.5px;fill:#7d8590}
 .heading{font-family:sans-serif;font-weight:700;font-size:47px;fill:#f0f6fc}
 .subheading{font-family:sans-serif;font-weight:500;font-size:22px;fill:#c9d1d9}
@@ -21,15 +33,49 @@
 .row{animation:appear .5s ease both}
 </style>
 </defs>
+
 <rect width="1080" height="610" rx="17" fill="url(#bg)"/>
 <rect width="1080" height="610" rx="17" fill="url(#grid)"/>
 <rect x="1" y="1" width="1078" height="608" rx="16" fill="none" stroke="url(#edge)" stroke-opacity=".6" stroke-width="1.4"/>
+
 <line x1="0" y1="38" x2="1080" y2="38" stroke="#30363d" stroke-opacity=".75"/>
-<circle cx="27" cy="19" r="6" fill="#ff5f56"/><circle cx="47" cy="19" r="6" fill="#ffbd2e"/><circle cx="67" cy="19" r="6" fill="#27c93f"/>
+
+<circle cx="27" cy="19" r="6" fill="#ff5f56"/>
+<circle cx="47" cy="19" r="6" fill="#ffbd2e"/>
+<circle cx="67" cy="19" r="6" fill="#27c93f"/>
+
 <text x="540" y="24" class="intro" text-anchor="middle" style="letter-spacing:1px">RICHARD CASTRO GOIS / DEVELOPER PROFILE</text>
-<circle cx="268" cy="290" r="178" fill="#132136" fill-opacity=".42" stroke="#58a6ff" stroke-opacity=".26"/>
-<circle cx="268" cy="290" r="167" fill="none" stroke="#3fb950" stroke-opacity=".7" stroke-dasharray="12 6" stroke-width="1.5"><animateTransform attributeName="transform" type="rotate" from="0 268 290" to="360 268 290" dur="90s" repeatCount="indefinite"/></circle>
-<g clip-path="url(#circle)"><g clip-path="url(#portraitReveal)">
+
+<!-- Retrato ASCII sem moldura ou recorte circular -->
+<!-- Entrada suave com fade-in e movimento vertical -->
+
+<g id="asciiPortrait" opacity="0">
+
+<animate
+  attributeName="opacity"
+  from="0"
+  to="1"
+  dur="2.4s"
+  begin="0s"
+  fill="freeze"
+  calcMode="spline"
+  keyTimes="0;1"
+  keySplines="0.22 1 0.36 1"
+/>
+
+<animateTransform
+  attributeName="transform"
+  type="translate"
+  from="0 14"
+  to="0 0"
+  dur="2.4s"
+  begin="0s"
+  fill="freeze"
+  calcMode="spline"
+  keyTimes="0;1"
+  keySplines="0.22 1 0.36 1"
+/>
+
 <text xml:space="preserve" x="103" y="135.0" font-family="monospace" font-size="9.5" fill="#e1f5f1" fill-opacity=".93">                                                          </text>
 <text xml:space="preserve" x="103" y="142.1" font-family="monospace" font-size="9.5" fill="#e1f5f1" fill-opacity=".93">                        ..:iirrr;i;::,.                   </text>
 <text xml:space="preserve" x="103" y="149.2" font-family="monospace" font-size="9.5" fill="#e1f5f1" fill-opacity=".93">                    .:rCG0GGGCttt11LL1r;;,                </text>
@@ -76,18 +122,58 @@
 <text xml:space="preserve" x="103" y="440.3" font-family="monospace" font-size="9.5" fill="#e1f5f1" fill-opacity=".93">       .       r00Gr1iiirr11ri:.                        , </text>
 <text xml:space="preserve" x="103" y="447.4" font-family="monospace" font-size="9.5" fill="#e1f5f1" fill-opacity=".93">       ..      i000Ci;,,;1Lt1ri;:.                     .  </text>
 <text xml:space="preserve" x="103" y="454.5" font-family="monospace" font-size="9.5" fill="#e1f5f1" fill-opacity=".93">               ;00001.,:;rLCGCCC1;,                   .   </text>
-</g></g>
+
+</g>
 
 <text x="268" y="489" text-anchor="middle" font-family="ui-monospace,monospace" font-size="13" fill="#7d8590">PERSONAL PROFILE</text>
+
 <line x1="508" y1="80" x2="508" y2="510" stroke="#263347"/>
+
 <text x="552" y="109" class="kicker">FULL STACK DEVELOPER</text>
 <text x="551" y="172" class="heading">Richard Castro</text>
 <text x="552" y="224" class="heading">Gois</text>
 <text x="552" y="265" class="subheading">Go  ·  React  ·  TypeScript</text>
 <text x="552" y="296" font-family="ui-sans-serif,system-ui,sans-serif" font-size="17" fill="#8b949e">Backend, Frontend &amp; AI Engineering</text>
+
 <line x1="552" y1="326" x2="1017" y2="326" stroke="#253347"/>
-<g class="row" style="animation-delay:0.19s"><text x="552" y="355" class="label">Atuação</text><text x="672" y="355" class="value">CPQD  /  Software Developer</text></g><g class="row" style="animation-delay:0.38s"><text x="552" y="383" class="label">Frontend</text><text x="672" y="383" class="value">React · TypeScript · Next.js</text></g><g class="row" style="animation-delay:0.57s"><text x="552" y="411" class="label">Backend</text><text x="672" y="411" class="value">Go · APIs · Mensageria</text></g><g class="row" style="animation-delay:0.76s"><text x="552" y="439" class="label">DevOps</text><text x="672" y="439" class="value">Docker · K8s · Argo CD</text></g><g class="row" style="animation-delay:0.95s"><text x="552" y="467" class="label">AI Lab</text><text x="672" y="467" class="value">RAG · LLMs · Ollama · Qdrant</text></g><g class="row" style="animation-delay:1.14s"><text x="552" y="495" class="label">Local</text><text x="672" y="495" class="value">Campinas, SP · Brasil</text></g><line x1="32" y1="548" x2="1048" y2="548" stroke="#30363d" stroke-opacity=".85"/>
-<circle cx="53" cy="575" r="5" fill="#3fb950"><animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/></circle>
+
+<g class="row" style="animation-delay:0.19s">
+<text x="552" y="355" class="label">Atuação</text>
+<text x="672" y="355" class="value">CPQD  /  Software Developer</text>
+</g>
+
+<g class="row" style="animation-delay:0.38s">
+<text x="552" y="383" class="label">Frontend</text>
+<text x="672" y="383" class="value">React · TypeScript · Next.js</text>
+</g>
+
+<g class="row" style="animation-delay:0.57s">
+<text x="552" y="411" class="label">Backend</text>
+<text x="672" y="411" class="value">Go · APIs · Mensageria</text>
+</g>
+
+<g class="row" style="animation-delay:0.76s">
+<text x="552" y="439" class="label">DevOps</text>
+<text x="672" y="439" class="value">Docker · K8s · Argo CD</text>
+</g>
+
+<g class="row" style="animation-delay:0.95s">
+<text x="552" y="467" class="label">AI Lab</text>
+<text x="672" y="467" class="value">RAG · LLMs · Ollama · Qdrant</text>
+</g>
+
+<g class="row" style="animation-delay:1.14s">
+<text x="552" y="495" class="label">Local</text>
+<text x="672" y="495" class="value">Campinas, SP · Brasil</text>
+</g>
+
+<line x1="32" y1="548" x2="1048" y2="548" stroke="#30363d" stroke-opacity=".85"/>
+
+<circle cx="53" cy="575" r="5" fill="#3fb950">
+<animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+</circle>
+
 <text x="69" y="580" font-family="ui-monospace,Consolas,monospace" font-size="15" fill="#c9d1d9">FRONTEND  ·  BACKEND  ·  AI</text>
 <text x="1032" y="580" text-anchor="end" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#7d8590">github.com/richardcastrogois</text>
+
 </svg>
