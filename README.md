@@ -9,7 +9,7 @@
 
 </div>
 
-### Professional Profile
+### About Me
 
 **Full Stack Developer** with professional experience in **React and TypeScript** on the frontend and **Go** on the backend, specializing in API development, microservices, messaging systems, and system integration.
 
