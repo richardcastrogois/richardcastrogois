@@ -1,35 +1,26 @@
-
 <div align="center">
 
-<img src="./assets/profile.png" width="100%" alt="Richard Castro Gois | Full Stack Developer | Go, React, TypeScript e IA" />
+<img src="./assets/richard-animated-profile.svg" width="100%" alt="Richard Castro Gois | Full Stack Developer | Go, React, TypeScript e IA" />
 
-<br>
 
 <a href="https://www.linkedin.com/in/richard-castro-00a6b42bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:dev.richardgois@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://devrichard-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-
 </div>
 
-## 👨‍💻 Sobre mim
-
-Desenvolvedor **Full Stack no CPQD**, com experiência profissional em **React e TypeScript (Frontend)** e atuação atual com **Go (Backend)**, APIs, mensageria e integração de serviços. Estudando aplicações de **IA, RAG e agentes inteligentes**.
-
-**📍 Campinas, SP** · **🎓 Análise e Desenvolvimento de Sistemas — conclusão prevista para outubro/2026**
-
-## 💼 Experiência profissional
-
-**CPQD** · ~1 ano em Frontend (**React / TypeScript / CSS-in-JS**) · ~10 meses em Backend (**Go / APIs / Mensageria**).
-
-## 🛠️ Tecnologias e ferramentas
-
-### Frontend & UI
-
+👨‍💻 Sobre mim
+Desenvolvedor Full Stack no CPQD, com experiência profissional em React e TypeScript (Frontend) e atuação atual com Go (Backend), APIs, mensageria e integração de serviços. Estudando aplicações de IA, RAG e agentes inteligentes.
+📍 Campinas, SP · 🎓 Análise e Desenvolvimento de Sistemas — conclusão prevista para outubro/2026
+💼 Experiência profissional
+CPQD · ~1 ano em Frontend (React / TypeScript / CSS-in-JS) · ~10 meses em Backend (Go / APIs / Mensageria).
+🛠️ Tecnologias e ferramentas
+Frontend & UI
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS e Tailwind" />
 
-<br><br>
+
+
 
 <img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
@@ -38,13 +29,13 @@ Desenvolvedor **Full Stack no CPQD**, com experiência profissional em **React e
 
 </div>
 
-### Backend, APIs & Dados
-
+Backend, APIs & Dados
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=go,nodejs,express,postgres,prisma,redis&theme=dark" alt="Go, Node.js, Express, PostgreSQL, Prisma e Redis" />
 
-<br><br>
+
+
 
 <img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=fastapi&logoColor=white" alt="APIs REST" />
 <img src="https://img.shields.io/badge/Microsserviços-161B22?style=flat-square" alt="Microsserviços" />
@@ -53,13 +44,13 @@ Desenvolvedor **Full Stack no CPQD**, com experiência profissional em **React e
 
 </div>
 
-### Infraestrutura, DevOps & Ferramentas
-
+Infraestrutura, DevOps & Ferramentas
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,bitbucket,linux,vscode,postman&theme=dark" alt="Docker, Kubernetes, Jenkins, Git, GitHub, Bitbucket, Linux, VS Code e Postman" />
 
-<br><br>
+
+
 
 <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
 <img src="https://img.shields.io/badge/Bruno_API_Client-F4AA41?style=flat-square" alt="Bruno" />
@@ -70,21 +61,19 @@ Desenvolvedor **Full Stack no CPQD**, com experiência profissional em **React e
 
 </div>
 
-### Design & Mobile
-
+Design & Mobile
 <div align="center">
 <img src="https://skillicons.dev/icons?i=figma,flutter,dart&theme=dark" alt="Figma, Flutter e Dart" />
 </div>
 
-## 🧠 Inteligência Artificial
-
-**Estudos e projetos práticos:** RAG, embeddings, busca semântica, LLMs locais, agentes de IA e automação assistida por IA.
-
+🧠 Inteligência Artificial
+Estudos e projetos práticos: RAG, embeddings, busca semântica, LLMs locais, agentes de IA e automação assistida por IA.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
 
-<br><br>
+
+
 
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
@@ -93,21 +82,17 @@ Desenvolvedor **Full Stack no CPQD**, com experiência profissional em **React e
 
 </div>
 
-**Projeto de estudo:** Second Brain local com **Obsidian + Ollama + Qdrant**, indexação de arquivos e respostas baseadas em contexto recuperado.
-
-## 📊 GitHub Insights
-
+Projeto de estudo: Second Brain local com Obsidian + Ollama + Qdrant, indexação de arquivos e respostas baseadas em contexto recuperado.
+📊 GitHub Insights
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=richardcastrogois&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="Estatísticas públicas do GitHub" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcastrogois&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="165" alt="Linguagens nos repositórios públicos" />
 
 <sub>Estatísticas de repositórios públicos. Não incluem necessariamente o trabalho corporativo no Bitbucket e não representam nível de domínio das linguagens.</sub>
-
 </div>
 
-## 🟩 Atividade no GitHub
-
+🟩 Atividade no GitHub
 <div align="center">
 
 <img src="https://www.gitskins.com/api/section/heatmap?username=richardcastrogois&theme=matrix&mode=dark" width="100%" alt="Calendário de contribuições do GitHub" />
