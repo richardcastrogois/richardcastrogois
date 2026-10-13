@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/richard-animated-profile.svg" width="100%" alt="Richard Castro Gois | Full Stack Developer | Go, React, TypeScript e IA" />
+<img src="./assets/richard-ascii-profile.svg" width="100%" alt="Richard Castro Gois | Full Stack Developer | Go, React, TypeScript e IA" />
 
 
 <a href="https://www.linkedin.com/in/richard-castro-00a6b42bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
