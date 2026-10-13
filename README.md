@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/richard-animated-profile.svg" width="100%" alt="Richard Castro Gois | Full Stack Developer | Go, React, TypeScript e IA" />
+<img src="./assets/profile.png" width="100%" alt="Richard Castro Gois | Full Stack Developer | Go, React, TypeScript e IA" />
 
 <br>
 
